@@ -37,4 +37,4 @@ function dividir(n1, n2) {
 function exibir(resultado) {
   alert(resultado);
 }
-calcular()
+calcular();
